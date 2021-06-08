@@ -1,0 +1,1 @@
+This is a new directory created by me as a student of alx
